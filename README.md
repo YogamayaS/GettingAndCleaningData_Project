@@ -1,5 +1,5 @@
-# GettingAndCleaningData_Project
-Getting and Cleaning Data - Project
+# Getting And Cleaning Data Project
+
 The purpose of the project is to be able to collect, work with, and clean a data set. The data for this project can be downloaded from the website - https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. The description of the data is available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 **Note** The run_analysis.R file and the data have to be in the same folder.
