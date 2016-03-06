@@ -23,9 +23,7 @@ library(plyr)
 
 # Extract only the measurements on the mean and standard deviation for each measurement.
         extract_features <- grep("mean\\(\\)|std\\(\\)", features)
-        #extract_features <- -grep("Freq" , extract_features)
-        #extract_features <- grep("-(mean|std)\\(\\)", features[, 2])
-        
+       
 # Load and process X_test & y_test data.
         X_test <- read.table("./UCI HAR Dataset/test/X_test.txt")
         y_test <- read.table("./UCI HAR Dataset/test/y_test.txt")
